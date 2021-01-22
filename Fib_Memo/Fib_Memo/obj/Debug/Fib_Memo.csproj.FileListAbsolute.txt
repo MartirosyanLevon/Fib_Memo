@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\bin\Debug\Fib_Memo.exe.config
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\bin\Debug\Fib_Memo.exe
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\bin\Debug\Fib_Memo.pdb
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\obj\Debug\Fib_Memo.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\obj\Debug\Fib_Memo.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\obj\Debug\Fib_Memo.exe
+C:\Users\mrlma\source\repos\Fib_Memo\Fib_Memo\obj\Debug\Fib_Memo.pdb
